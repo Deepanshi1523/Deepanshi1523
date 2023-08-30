@@ -37,7 +37,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ```javascript
 const Deepanshi = {
-    pronouns: "Shee" | "Her",
+    pronouns: "She" | "Her",
     code: ["Javascript", "C++", "ReactJS", "HTML", "CSS", "MongoDB"],
     askMeAbout: ["web dev", "tech", "data structure", "algorithms"],
     technologies: {
