@@ -6,6 +6,9 @@ I'm a passionate Software Developer, my career objective is to leverage my exper
 - 🤝 ask me about anything, i am happy to help;
 - 📫 How to reach me **deepanshisinghal1523@gmail.com**
 
+  ## Hacktoberfest 2022 Badges
+  [![An image of @dpsinghal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dpsinghal)](https://holopin.io/@dpsinghal)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepanshi-singhal-195365221" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="deepanshi-singhal-195365221" /></a>
