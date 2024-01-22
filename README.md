@@ -1,5 +1,9 @@
 <h2 align="center"> नमस्ते (Namaste)🙏🏻, I'm Deepanshi Singhal!</h2>
-
+<p align="center"> 
+<a href="https://linkedin.com/in/deepanshi-singhal-195365221" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="3%"></a>
+<a href="https://www.instagram.com/dipanshi_singhal/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="3%"></a>
+<a href="https://t.me/iamdeepanshi" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" alt="Twitter" width="3%"></a>
+</p>
 I'm a passionate Software Developer, my career objective is to leverage my expertise in software development and user interface design to create immersive and user-friendly digital experiences. I'm a graduate in Computer Science 🎓 from GGSIPU 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
   
 - 💬Ask me about cpp & web development
@@ -11,12 +15,9 @@ I'm a passionate Software Developer, my career objective is to leverage my exper
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepanshi-singhal-195365221" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="deepanshi-singhal-195365221" /></a>
 <a href="https://www.codechef.com/users/deepanshi_1503" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="deepanshi_1503"  /></a>
-<a href="https://www.hackerrank.com/deepanshisingha4" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="deepanshisingha4"  /></a>
 <a href="https://leetcode.com/GirlAnonmous/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="GirlAnonmous"  /></a>       
 <a href="https://auth.geeksforgeeks.org/user/deepanshisindev/profile" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="deepanshisindev/profile"  /></a>
-<a href="https://t.me/iamdeepanshi" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" alt="deepanshi_1503"/></a>
 </p>
 
 
