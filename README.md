@@ -13,9 +13,8 @@ I'm a passionate Software Developer, my career objective is to leverage my exper
   ## Hacktoberfest 2022 Badges
   [![An image of @dpsinghal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dpsinghal)](https://holopin.io/@dpsinghal)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding Platforms:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/deepanshi_1503" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="deepanshi_1503"  /></a>
 <a href="https://leetcode.com/GirlAnonmous/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="GirlAnonmous"  /></a>       
 <a href="https://auth.geeksforgeeks.org/user/deepanshisindev/profile" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="deepanshisindev/profile"  /></a>
 </p>
