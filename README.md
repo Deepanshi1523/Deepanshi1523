@@ -10,7 +10,7 @@ I'm a passionate Software Developer, my career objective is to leverage my exper
 - 🤝 ask me about anything, i am happy to help;
 - 📫 How to reach me **deepanshisinghal1523@gmail.com**
 
-  ## Hacktoberfest 2022 Badges
+  ## Hacktoberfest 2023 Badges
   [![An image of @dpsinghal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dpsinghal)](https://holopin.io/@dpsinghal)
 
 <h3 align="left">Coding Platforms:</h3>
