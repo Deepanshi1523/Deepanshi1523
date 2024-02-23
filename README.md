@@ -6,7 +6,7 @@
 </p>
 I'm a passionate Software Developer, my career objective is to leverage my expertise in software development and user interface design to create immersive and user-friendly digital experiences. I'm a graduate in Computer Science 🎓 from GGSIPU 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
   
-- 💬Ask me about cpp & web development
+- 💬Ask me about cpp & web development.
 - 🤝 ask me about anything, i am happy to help;
 - 📫 How to reach me **deepanshisinghal1523@gmail.com**
 
