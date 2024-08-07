@@ -1,4 +1,4 @@
-<h2 align="center"> नमस्ते (Namaste)🙏🏻, I'm Deepanshi Singhal!</h2>
+<h2 align="center"> नमस्ते (Namaste) 🙏🏻, I'm Deepanshi Singhal!</h2>
 <p align="center"> 
 <a href="https://linkedin.com/in/deepanshi-singhal-195365221" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="3%"></a>
 <a href="https://www.instagram.com/dipanshi_singhal/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="3%"></a>
